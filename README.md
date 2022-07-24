@@ -15,5 +15,5 @@ From this, Random Forest model was concluded as the relatively best perfoming mo
 
 How to view the project:
 
-Links to the codes written in Google Colab are given in the word document - 'Code Links'.
+Open the given ipynb files using google colab and run the code to get the R2 score of each model.
 
